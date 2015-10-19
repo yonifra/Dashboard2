@@ -319,7 +319,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #ffffff;
+  background-color: #F5F5F5;
 }
 
 input,
@@ -4541,20 +4541,20 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-link {
-  color: #777777;
+  color: #E3F2FD;
 }
 
 .navbar-default .navbar-link:hover {
-  color: #333333;
+  color: #FFFFFF;
 }
 
 .navbar-inverse {
-  background-color: #222222;
-  border-color: #080808;
+  background-color: #2196F3;
+  border-color: #42A5F5;
 }
 
 .navbar-inverse .navbar-brand {
-  color: #999999;
+  color: #E3F2FD;
 }
 
 .navbar-inverse .navbar-brand:hover,
@@ -4564,11 +4564,11 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse .navbar-text {
-  color: #999999;
+  color: #E3F2FD;
 }
 
 .navbar-inverse .navbar-nav > li > a {
-  color: #999999;
+  color: #E3F2FD;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
